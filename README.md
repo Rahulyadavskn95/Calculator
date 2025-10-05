@@ -26,4 +26,4 @@ Supports arithmetic, percentage, backspace, dark/light mode, and keyboard input.
 1. Clone/download repo  
 2. Open `index.html` in browser  
 3. Start calculating ⚡
-# Calculator
+
